@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/PEA/Genetic.cpp
+Graph.h
+D:/CLionProjects/PEA/Graph.h
+GeneticManager.h
+D:/CLionProjects/PEA/GeneticManager.h
+cmath
+-
+algorithm
+-
+map
+-
+
+D:/CLionProjects/PEA/GeneticManager.h
+vector
+-
+
+D:/CLionProjects/PEA/Graph.h
+vector
+-
+iostream
+-
+fstream
+-
+sstream
+-
+ctime
+-
+chrono
+-
+
